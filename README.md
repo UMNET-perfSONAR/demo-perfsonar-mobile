@@ -6,9 +6,13 @@ Simple pscheduler commands and system configs to support mobile perfSONAR testpo
 
 Presentation Slides: 
 [Debugging Network Connectivity issues at the Randall Labratory: A case study for Mobile 10GE perfSONAR testpoints](https://docs.google.com/presentation/d/14N-Brebma6jqayN6q5mj8TLDwMZIYUV2yZw5kkcdFCQ/edit?ts=5f74da79#slide=id.g9da63a0b15_0_563)
+
 [Know Your (perfSONAR) Limits Webinar](https://www.youtube.com/watch?v=UNItTorQqnw)
+
 [perfSONAR Ansible playbook](https://github.com/perfsonar/ansible-playbook-perfsonar)
+
 [SuperMicro E-300-8D](https://www.supermicro.com/en/products/system/Mini-ITX/SYS-E300-8D.cfm)
+
 
 pscheduler commands:
 
