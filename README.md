@@ -19,9 +19,9 @@ pscheduler commands:
 
 ```
 pscheduler task \
-throughput \
---source 141.213.137.100 \
---dest 141.213.137.101
+  throughput \
+  --source 141.213.137.100 \
+  --dest 141.213.137.101
 ```
 
 /etc/sysconfig/network-scripts/ifcfg-bond0
