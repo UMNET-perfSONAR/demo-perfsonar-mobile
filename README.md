@@ -14,6 +14,8 @@ Presentation Links:
 
 [SuperMicro E-300-8D](https://www.supermicro.com/en/products/system/Mini-ITX/SYS-E300-8D.cfm)
 
+[YouTube presentation](https://www.youtube.com/watch?v=02YLA24KFCY&feature=youtu.be&t=10)
+
 
 pscheduler commands:
 
